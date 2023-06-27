@@ -19,7 +19,7 @@ function createCard(image, title, overview, url) {
                 <div class="card-content">
                     <div class="card-header">
                         <div class="left-content">
-                        <h3 style="font-weight: 600">${title}</h3>
+                        <h4 style="font-weight: 600">${title}</h4>
                         </div>
                     <div class="right-content">
                         <a href="${url}" target="_blank" class="card-btn">Visualizar projeto</a>
